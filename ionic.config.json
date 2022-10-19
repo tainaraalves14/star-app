@@ -1,0 +1,8 @@
+{
+  "name": "StarApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3506e559"
+}
